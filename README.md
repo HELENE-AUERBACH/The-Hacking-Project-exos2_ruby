@@ -163,7 +163,7 @@ En 2019, tu avais 44 ans.<BR>
 En 2020, tu avais 45 ans.<BR>
 En 2021, tu as 46 ans.<BR>
 .../exos2_ruby$ ruby exo_11.rb<BR>
-Quelle est ton année de naissance? : 1975<BR>
+Quel est ton âge? : 46
 Il y a 46 ans, tu avais 0 an.<BR>
 Il y a 45 ans, tu avais 1 an.<BR>
 Il y a 44 ans, tu avais 2 ans.<BR>
@@ -212,7 +212,7 @@ Il y a 2 ans, tu avais 44 ans.<BR>
 Il y a 1 an, tu avais 45 ans.<BR>
 Il y a 0 an, tu as 46 ans.<BR>
 .../exos2_ruby$ ruby exo_12.rb<BR>
-Quelle est ton année de naissance? : 1975<BR>
+Quel est ton âge? : 46
 Il y a 46 ans, tu avais 0 an.<BR>
 Il y a 45 ans, tu avais 1 an.<BR>
 Il y a 44 ans, tu avais 2 ans.<BR>
