@@ -341,7 +341,6 @@ jean.dupont.50@email.fr<BR>
 Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?<BR>
 > 8<BR>
 Voici la pyramide :<BR>
-<code>
 #<BR>
 ##<BR>
 ###<BR>
@@ -350,12 +349,10 @@ Voici la pyramide :<BR>
 ######<BR>
 #######<BR>
 ########<BR>
-</code>
 .../exos2_ruby$ ruby pyramide.rb<BR>
 Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?<BR>
 > 8<BR>
 Voici la pyramide :<BR>
-<code>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;##<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;###<BR>
@@ -364,12 +361,10 @@ Voici la pyramide :<BR>
 &nbsp;&nbsp;######<BR>
 &nbsp;#######<BR>
 ########<BR>
-</code>
 .../exos2_ruby$ ruby exo_17.rb<BR>
 Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?<BR>
 > 8<BR>
 Voici la pyramide :<BR>
-<code>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;###<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#####<BR>
@@ -378,7 +373,6 @@ Voici la pyramide :<BR>
 &nbsp;&nbsp;###########<BR>
 &nbsp;#############<BR>
 ###############<BR>
-</code>
 </p>
 </body>
 </html>
